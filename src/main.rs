@@ -7,6 +7,8 @@ use std::collections::HashMap;
 use std::io::{self, Write};
 
 
+
+
 fn main() {
     let mut password_map: HashMap<String, String> = HashMap::new();
     let mut hashvalue_map: HashMap<String, String> = HashMap::new();
